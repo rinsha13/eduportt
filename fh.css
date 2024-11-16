@@ -1,0 +1,23 @@
+
+.call_popup_main .tooltip .tooltiptext{
+    top: 10px !important;
+}
+.call_popup_main .start_call_caliing_btn_round img,.call_popup_main .start_call_caliing_btn_round .header_req_call_icon{
+    display: none !important;
+}
+.call_popup_main .start_call_caliing_btn_round{
+    background-image: url('https://images.softwaresuggest.com/software_logo/1563348936_logo.jpeg.jpg');
+    background-size: 90%;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 10px !important;
+    background-color: #fff !important;
+    border: 2px solid #001965;
+    width: 50px !important;
+    height: 50px !important;
+}
+.popup_small_new .tos_span,
+.popup_desk_tnc_line {
+    display: none !important;
+}
+
